@@ -1,5 +1,9 @@
 # CoT-ensembles
 
+### How to run the code?
+
+Follow links to kaggle notebooks. Then you can fork the notebooks and run them on kaggle. Everything should work then.
+
 The dataset preparation - [link to kaggle notebook](https://www.kaggle.com/code/manwithaflower/prompts-dataset-preparation)
 
 Running a blooom model (bloom-1b7) - [link to kaggle notebook](https://www.kaggle.com/code/manwithaflower/bloom-1b7-gsm8k)
